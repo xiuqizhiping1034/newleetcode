@@ -3,5 +3,5 @@
         "**/__pycache__/**": true,
         "**/**/*.pyc": true
     },
-    "python.formatting.provider": "black"
+    "python.formatting.provider": "autopep8"
 }
